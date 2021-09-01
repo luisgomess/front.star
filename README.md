@@ -1,0 +1,2 @@
+# front.star
+new page
